@@ -1,0 +1,15 @@
+# Ignore compiled binaries
+main
+*.exe
+
+
+
+# ---- VS Code ----
+.vscode/*
+# Keep only team-shared settings
+!.vscode/settings.json
+!.vscode/extensions.json
+!.vscode/c_cpp_properties.json
+
+
+
